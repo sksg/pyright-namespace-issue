@@ -15,7 +15,7 @@ namespace-package1 = { path = "extern/namespace-package1", develop = true }
 namespace-package2 = { path = "extern/namespace-package2", develop = true }
 
 [tool.poetry.group.dev.dependencies]
-pyright = "^1.1.398"
+pyright = "1.1.398"
 
 [tool.pyright]
 strict = ["./**"]
