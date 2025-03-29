@@ -1,6 +1,6 @@
 # Pyright namespace issue
 
-This is a minimal working example of a pyright namespace issue.
+This is a minimal working example of a pyright namespace issue. It requires [poetry](https://python-poetry.org/) to run the example as shown below.
 
 To show the issue run
 
